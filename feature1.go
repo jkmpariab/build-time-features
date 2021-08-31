@@ -1,6 +1,5 @@
-// +build feature1
-//go:build feature1
-// +build feature1
+//go:build github.com_jkmpariab_mod1___feature1
+// +build github.com_jkmpariab_mod1___feature1
 
 package mod1
 
